@@ -12,6 +12,7 @@ public class BookApplication {
         SpringApplication.run(BookApplication.class, args);
         System.out.println("hello world");
         System.out.println("hello git3");
+        System.out.println("hello git4");
     }
 
 }
